@@ -1,0 +1,13 @@
+name: DisplayInfo
+main: me.ES359.DisplayInfo.Main
+version: 1.0
+description: User login Information plugin.
+
+commands:
+  di-debug:
+    description: debug command.
+
+  displayinfo:
+    description: Main command for plugin.
+    aliases: [di, disi, info, display]
+
